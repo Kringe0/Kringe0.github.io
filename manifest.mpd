@@ -22,6 +22,7 @@
       </Representation>
     </AdaptationSet>
     <AdaptationSet mimeType="audio/mp4" segmentAlignment="0" startWithSAP="1">
+      <BaseURL>https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/</BaseURL>
       <ContentProtection cenc:default_KID="8150b74d-1632-4bb4-b2ff-62e3e202fc7a" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
       <ContentProtection cenc:default_KID="8150b74d-1632-4bb4-b2ff-62e3e202fc7a" schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
         <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAP3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAB8SEIFQt00WMku0sv9i4+IC/HoaBWV6ZHJtSOPclZsG</cenc:pssh>
@@ -32,6 +33,7 @@
   </Period>
   <Period start="PT146H56M58S" id="2">
     <AdaptationSet mimeType="video/mp4" frameRate="30000/1001" segmentAlignment="true" subsegmentAlignment="true" startWithSAP="1" subsegmentStartsWithSAP="1" bitstreamSwitching="false">
+      <BaseURL>https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/</BaseURL>
       <ContentProtection cenc:default_KID="8150b74d-1632-4bb4-b2ff-62e3e202fc7a" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
       <ContentProtection cenc:default_KID="8150b74d-1632-4bb4-b2ff-62e3e202fc7a" schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
         <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAP3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAB8SEIFQt00WMku0sv9i4+IC/HoaBWV6ZHJtSOPclZsG</cenc:pssh>
@@ -51,6 +53,7 @@
       </Representation>
     </AdaptationSet>
     <AdaptationSet mimeType="audio/mp4" segmentAlignment="0" startWithSAP="1">
+      <BaseURL>https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/</BaseURL>
       <ContentProtection cenc:default_KID="8150b74d-1632-4bb4-b2ff-62e3e202fc7a" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
       <ContentProtection cenc:default_KID="8150b74d-1632-4bb4-b2ff-62e3e202fc7a" schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
         <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAP3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAB8SEIFQt00WMku0sv9i4+IC/HoaBWV6ZHJtSOPclZsG</cenc:pssh>
