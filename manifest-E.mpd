@@ -2,7 +2,7 @@
 <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="dynamic" publishTime="2026-11-18T07:21:27.566Z" minimumUpdatePeriod="PT30S" availabilityStartTime="2026-11-17T00:37:57.041Z" minBufferTime="PT4S" suggestedPresentationDelay="PT20S" timeShiftBufferDepth="PT40.040S" profiles="urn:mpeg:dash:profile:isoff-live:2011">
   <Period start="PT0S" id="1">
     <AdaptationSet mimeType="video/mp4" frameRate="30000/1001" segmentAlignment="true" subsegmentAlignment="true" startWithSAP="1" subsegmentStartsWithSAP="1" bitstreamSwitching="false">
-      <BaseURL>https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/</BaseURL>
+      <BaseURL>https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/</BaseURL>
       <ContentProtection cenc:default_KID="b750a407-36a2-4e60-b5a4-f256208b92c5" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
       <ContentProtection schemeIdUri="urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b">
         <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAANHBzc2gBAAAAEHfv7MCyTQKs4zweUuL7SwAAAAG3UKQHNqJOYLWk8lYgi5LFAAAAAA==</cenc:pssh>
@@ -24,7 +24,7 @@
       </Representation>
     </AdaptationSet>
     <AdaptationSet mimeType="audio/mp4" segmentAlignment="0" startWithSAP="1">
-      <BaseURL>https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/</BaseURL>
+      <BaseURL>https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/</BaseURL>
       <ContentProtection cenc:default_KID="b750a407-36a2-4e60-b5a4-f256208b92c5" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
       <ContentProtection schemeIdUri="urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b">
         <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAANHBzc2gBAAAAEHfv7MCyTQKs4zweUuL7SwAAAAG3UKQHNqJOYLWk8lYgi5LFAAAAAA==</cenc:pssh>
